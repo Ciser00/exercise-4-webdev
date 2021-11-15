@@ -1,0 +1,22 @@
+{
+  "name": "web-dev-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ciser00/exercise-4-webdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ciser00/exercise-4-webdev/issues"
+  },
+  "homepage": "https://github.com/Ciser00/exercise-4-webdev#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
